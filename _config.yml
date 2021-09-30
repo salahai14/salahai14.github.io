@@ -1,1 +1,6 @@
-theme: jekyll-theme-architect
+theme: minima
+title: Example Site 
+header_pages: 
+  - about.md
+  - me.md
+  
